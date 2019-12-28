@@ -3,13 +3,11 @@ def new_hash
 end
 
 def my_hash
-  {:player => "Steph Curry"
-  }
+  {:player => "Steph Curry"}
 end
 
 def pioneer
-  {:name => "Grace Hopper"
-  }
+  {:name => "Grace Hopper"}
 end
 
 def id_generator
