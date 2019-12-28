@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {:player => "Steph Curry"}
+  {:players => 6}
 end
 
 def pioneer
