@@ -15,7 +15,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  {:collars => 4}
+  {key => value}
 end
 
 def read_from_hash(hash, key)
